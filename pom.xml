@@ -38,7 +38,7 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>simple-webapp</finalName>
+    <finalName>numguess-servlet</finalName>
     <plugins>
       <plugin>
       	<groupId>org.apache.maven.plugins</groupId>
